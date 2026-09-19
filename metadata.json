@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast Weather App",
+  "description": "A Flutter weather application using the OpenWeatherMap API with real-time forecasts, interactive 8-screen mobile simulator, and complete exportable Flutter Dart codebase.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
